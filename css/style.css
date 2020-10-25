@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+.container-hf {
+  width: 840px;
+  margin: auto;
+}
+.main-container {
+  width: 540px;
+  margin: auto;
+}
+.container-padding {
+  padding: 0px 60px 0px 60px;
+}
+.circle {
+  border: solid 2px black;
+  border-radius: 50%;
+}
+.header {
+  padding: 6px 0px 6px 0px;
+}
+.border-bottom {
+  border-bottom: solid 2px darkgrey;
+}
+footer {
+  background-color: #283e4afd;
+  color: white;
+  height: 100px;
+}
+.float {
+  float: right;
+}
+.content-padding {
+  padding-top: 60px;
+}
