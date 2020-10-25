@@ -25,11 +25,11 @@ body {
 footer {
   background-color: #283e4afd;
   color: white;
-  height: 100px;
+  padding
 }
 .float {
   float: right;
 }
 .content-padding {
-  padding-top: 60px;
+  padding: 60px 0px 60px 0px;
 }
