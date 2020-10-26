@@ -16,18 +16,15 @@ body {
   border: solid 2px black;
   border-radius: 50%;
 }
-.header {
+header {
   padding: 6px 0px 6px 0px;
-}
-.border-bottom {
   border-bottom: solid 2px darkgrey;
 }
 footer {
   background-color: #283e4afd;
   color: white;
-  padding
 }
-.float {
+.align-right {
   float: right;
 }
 .content-padding {
