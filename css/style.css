@@ -18,8 +18,6 @@ body {
 }
 header {
   padding: 6px 0px 6px 0px;
-}
-.border-bottom {
   border-bottom: solid 2px darkgrey;
 }
 footer {
