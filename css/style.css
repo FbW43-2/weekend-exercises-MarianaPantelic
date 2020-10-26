@@ -16,7 +16,7 @@ body {
   border: solid 2px black;
   border-radius: 50%;
 }
-.header {
+header {
   padding: 6px 0px 6px 0px;
 }
 .border-bottom {
@@ -27,7 +27,7 @@ footer {
   color: white;
   padding
 }
-.float {
+.right-align {
   float: right;
 }
 .content-padding {
